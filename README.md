@@ -153,6 +153,10 @@ See the [roadmap](docs/07_ROADMAP.md) for possible future expansion without trea
 - [Build phases](docs/06_BUILD_PHASES.md)
 - [Roadmap](docs/07_ROADMAP.md)
 
+## More projects
+
+See **[DeSando.org](https://desando.org)** for more projects and current work.
+
 ## License
 
 Released under the [MIT License](LICENSE).
